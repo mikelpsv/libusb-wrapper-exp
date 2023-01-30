@@ -4,6 +4,8 @@
 
 Original document: https://libusb.sourceforge.io/api-1.0/group__libusb__dev.html 
 
+The document was translated for personal use [@mikelpsv](https://github.com/mikelpsv)
+
 ## Подробное описание
 
 Задокументированная ниже функциональность предназначена для помощи в следующих операциях:
